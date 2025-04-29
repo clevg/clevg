@@ -38,6 +38,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/clevg/clevg/output/snake.svg" alt="Snake animation" />
-
-###
